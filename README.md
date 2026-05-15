@@ -12,6 +12,12 @@ Build. Automate. Share.
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/AIIntuneVoiceAssistant?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/AIIntuneVoiceAssistant/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/AIIntuneVoiceAssistant?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/AIIntuneVoiceAssistant/graphs/contributors)
 
+<p>
+  <a href="https://jannikreinhard.com/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
+  <a href="https://x.com/jannik_reinhard">X</a>
+</p>
+
 ---
 
 `AI-assisted Operations` | `Python` | `Public` | `Archived`
@@ -66,7 +72,7 @@ https://jannikreinhard.com/2023/04/23/intune-ai-voice-bot/
   <tbody>
     <tr>
         <td align="center"><a href="https://github.com/Fadope1"><img src="https://avatars.githubusercontent.com/u/68806729?v=4" width="100px;" alt="Fabian Peschke"/><br /><sub><b>Fabian Peschke</b></sub></a><br /><a href="https://www.linkedin.com/in/fabian-peschke-a55554250/" title="LinkedIn">💬</a></td>
-        <td align="center"><a href="https://github.com/JayRHa"><img src="https://avatars.githubusercontent.com/u/73911860?v=4" width="100px;" alt="Jannik Reinhard"/><br /><sub><b>Jannik Reinhard</b></sub></a><br /><a href="https://twitter.com/jannik_reinhard" title="Twitter">💬</a> <a href="https://www.linkedin.com/in/jannik-r/" title="LinkedIn">💬</a></td>
+        <td align="center"><a href="https://github.com/JayRHa"><img src="https://avatars.githubusercontent.com/u/73911860?v=4" width="100px;" alt="Jannik Reinhard"/><br /><sub><b>Jannik Reinhard</b></sub></a><br /><a href="https://x.com/jannik_reinhard" title="X">💬</a> <a href="https://www.linkedin.com/in/jannik-r/" title="LinkedIn">💬</a></td>
   </tbody>
 </table>
 
