@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides archived AI voice assistant experiment for Microsoft Intune administration workflows.
+Archived AI voice assistant experiment for Microsoft Intune administration workflows.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
