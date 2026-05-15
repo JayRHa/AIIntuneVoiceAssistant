@@ -1,3 +1,48 @@
+<!-- unified-readme:start -->
+    <div align="center">
+
+    # AI Intune Voice Assistant
+
+    **Archived AI voice assistant experiment for Microsoft Intune administration workflows.**
+
+    Build. Automate. Share.
+
+    [![GitHub stars](https://img.shields.io/github/stars/JayRHa/AIIntuneVoiceAssistant?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/AIIntuneVoiceAssistant/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/JayRHa/AIIntuneVoiceAssistant?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/AIIntuneVoiceAssistant/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/JayRHa/AIIntuneVoiceAssistant?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/AIIntuneVoiceAssistant/issues)
+[![Contributors](https://img.shields.io/github/contributors/JayRHa/AIIntuneVoiceAssistant?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/AIIntuneVoiceAssistant/graphs/contributors)
+
+    ---
+
+    `Endpoint Management` | `Python` | `Public` | `Maintained`
+
+    </div>
+
+    ## What is this?
+
+    This repository contains archived AI voice assistant experiment for Microsoft Intune administration workflows.
+
+    > Browse the documentation below for setup notes, usage details, and project-specific context.
+
+    ---
+
+    ## Quick Start
+
+    1. Review the project documentation below.
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/JayRHa/AIIntuneVoiceAssistant.git
+   ```
+
+3. Follow the setup, deployment, or usage notes in the preserved documentation section.
+
+    ---
+    <!-- unified-readme:end -->
+
+
+## Existing Documentation
+
 # Endpoint Analytics Remediation Scripts
 
 ## Intro
@@ -46,4 +91,3 @@ python intune_voice_assistant.py
 ```
 
 The voice assistant will begin listening for input. You can ask questions by starting with "Hey" followed by your query. To reset the conversation context, say "Reset." To stop the conversation, say "Stop" or press Ctrl-Z.
-
